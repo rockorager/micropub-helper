@@ -1,0 +1,1 @@
+module.exports.article = require('article-with-photo.quill.json');
