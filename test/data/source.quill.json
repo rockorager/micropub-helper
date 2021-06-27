@@ -1,5 +1,5 @@
 {
-	"rawUrl": "https://www.timculverhouse.com/.netlify/functions/micropub?q=config",
+	"rawUrl": "https://www.timculverhouse.com/.netlify/functions/micropub?q=source&properties[]=published&properties[]=category&url=https://www.timculverhouse.com",
 	"rawQuery": "q=config",
 	"path": "/.netlify/functions/micropub",
 	"httpMethod": "GET",

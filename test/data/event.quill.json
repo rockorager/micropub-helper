@@ -5,7 +5,7 @@
 	"httpMethod": "POST",
 	"headers": {
 		"accept": "application/json",
-		"authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZSI6Imh0dHBzOlwvXC93d3cudGltY3VsdmVyaG91c2UuY29tXC8iLCJpc3N1ZWRfYnkiOiJodHRwczpcL1wvdG9rZW5zLmluZGllYXV0aC5jb21cL3Rva2VuIiwiY2xpZW50X2lkIjoiaHR0cHM6XC9cL3F1aWxsLnAzay5pb1wvIiwiaXNzdWVkX2F0IjoxNjI0NTMyMzA3LCJzY29wZSI6ImNyZWF0ZSB1cGRhdGUgbWVkaWEiLCJub25jZSI6NDUzMzU3ODM4fQ.XJz2yC5f1GnhOC9mnvRDZ-Naf_PsUeJwako8zo2OanA",
+		"authorization": "Bearer TOKEN",
 		"client-ip": "100.64.0.252",
 		"connection": "keep-alive",
 		"content-length": "363",
@@ -31,7 +31,7 @@
 	"multiValueHeaders": {
 		"Accept": ["application/json"],
 		"Authorization": [
-			"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZSI6Imh0dHBzOlwvXC93d3cudGltY3VsdmVyaG91c2UuY29tXC8iLCJpc3N1ZWRfYnkiOiJodHRwczpcL1wvdG9rZW5zLmluZGllYXV0aC5jb21cL3Rva2VuIiwiY2xpZW50X2lkIjoiaHR0cHM6XC9cL3F1aWxsLnAzay5pb1wvIiwiaXNzdWVkX2F0IjoxNjI0NTMyMzA3LCJzY29wZSI6ImNyZWF0ZSB1cGRhdGUgbWVkaWEiLCJub25jZSI6NDUzMzU3ODM4fQ.XJz2yC5f1GnhOC9mnvRDZ-Naf_PsUeJwako8zo2OanA"
+			"Bearer TOKEN"
 		],
 		"Client-Ip": ["100.64.0.252"],
 		"Connection": ["keep-alive"],

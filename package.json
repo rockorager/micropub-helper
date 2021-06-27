@@ -26,10 +26,12 @@
   "homepage": "https://github.com/rockorager/micropub-helper#readme",
   "devDependencies": {
     "jshint": "^2.13.0",
-    "mocha": "^9.0.1"
+    "mocha": "^9.0.1",
+    "nock": "^13.1.0"
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "formidable": "^1.2.2",
     "js-base64": "^3.6.1"
   }
 }
